@@ -1,5 +1,5 @@
 
-# Tugas Permograman Mobil
+# Tugas Permograman Mobile
 
 NAMA            : Nicky Pascal Tambunan
 
