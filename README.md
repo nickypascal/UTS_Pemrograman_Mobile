@@ -1,11 +1,11 @@
 
 # Tugas Permograman Mobil
 
-NAMA  : SERIUS NDRURU
+NAMA            : Nicky Pascal Tambunan
 
-NIM   : 312210508
+NIM             : 312210474
 
-KELAS : TI.22.A.5
+KELAS           : TI.22.A.5
 
 DOSEN PENGAMPUH : DONNY MAULANA, S.Kom., M.M.S.I
 
